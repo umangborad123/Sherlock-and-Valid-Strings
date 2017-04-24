@@ -17,7 +17,7 @@ Sherlock wants to know from you if it's possible to be done with less than or eq
 The first and only line contains S, the string Watson gives to Sherlock.
 
 **Constraints:**
-- 1 <= |S| <= 10^5
+- 1 <= |S| <= 10<sup>5</sup>
 - String S contains lowercase letters only (a-z).
 
 
