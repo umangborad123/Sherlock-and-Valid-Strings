@@ -1,4 +1,4 @@
-# Sherlock-and-Valid-Strings
+# Sherlock and Valid Strings
 Check whether string is valid or not - Hackerrank question
 
 > You know my powers, my dear Watson, and yet at the end of three months I was forced to confess that I had at last met an antagonist who was my intellectual equal.
