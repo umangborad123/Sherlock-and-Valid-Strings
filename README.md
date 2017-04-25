@@ -12,15 +12,18 @@ the new string is a "valid" string.
 
 Sherlock wants to know from you if it's possible to be done with less than or equal to one removal.
 
-**Input format:**
+## Input format:
+
 The first and only line contains S, the string Watson gives to Sherlock.
 
-**Constraints:**
+## Constraints:
+
 - 1 <= |S| <= 10<sup>5</sup>
 - String S contains lowercase letters only (a-z).
 
 
-**Output format:**
+## Output format:
+
 Output YES if string S can be converted to a "valid" string by removing less than or equal
 to one one character.
 Else, output NO.
