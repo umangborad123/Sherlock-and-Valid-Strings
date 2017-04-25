@@ -26,10 +26,12 @@ to one one character.
 Else, output NO.
 
 **Sample Input:**
-aabbcd
+
+    aabbcd
 
 **Sample Output:**
-NO
+
+    NO
 
 2 is the minimum number of removals required to make it a valid string. It can be done in following two ways:
 
